@@ -12,12 +12,13 @@
   height: 44px;
   width: 44px;
   border-radius: 50px;
+  &:hover,
+  &:focus {
+    background-color: var(--accent-color);
+    color: #ffffff;
+  }
 }
-.social-link:hover,
-.social-link:focus {
-  background-color: var(--accent-color);
-  color: #ffffff;
-}
+
 .social-image {
   display: block;
   fill: currentColor;
