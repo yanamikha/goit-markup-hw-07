@@ -4,6 +4,16 @@
 @import "./base/common";
 @import "./base/container";
 
+@import "./components/accent-button";
+@import "./components/backdrop";
+@import "./components/btn-list";
+@import "./components/current-page";
+@import "./components/logo";
+@import "./components/navigation-bar";
+@import "./components/heading";
+@import "./components/modal-btn";
+@import "./components/social";
+
 @import "./layout/virtues";
 @import "./layout/footer";
 @import "./layout/footerform";
@@ -14,12 +24,4 @@
 @import "./layout/hero";
 @import "./layout/team";
 
-@import "./components/accent-button";
-@import "./components/backdrop";
-@import "./components/btn-list";
-@import "./components/current-page";
-@import "./components/logo";
-@import "./components/navigation-bar";
-@import "./components/heading";
-@import "./components/modal-btn";
-@import "./components/social";
+
